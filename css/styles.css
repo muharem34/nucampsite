@@ -27,6 +27,7 @@ header h2 {
     background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
     color: white;
     margin: 0;
+    border-radius: 0%;
 }
 
 .row-content {
