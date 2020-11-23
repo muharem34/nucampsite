@@ -42,3 +42,11 @@ header h2 {
 .carousel {
     border: solid #5637DD;
 }
+
+/* carousel play/pause button */
+#carouselButton {
+    position: absolute;  /*makes it move all the way to the right margin of the div*/
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
